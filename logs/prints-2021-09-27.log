@@ -1,0 +1,6 @@
+20:30:59.886 [main] INFO  com.mindtree.runner.TestRunner - Driver initialised
+20:31:00.059 [main] INFO  com.mindtree.runner.TestRunner - https://www.urbanladder.com/
+20:31:10.069 [main] INFO  com.mindtree.runner.TestRunner - Successfully signed in
+20:31:18.246 [main] INFO  com.mindtree.runner.TestRunner - Successfully validated store
+20:31:21.578 [main] INFO  com.mindtree.runner.TestRunner - customer stories opened successfully
+20:31:25.893 [main] INFO  com.mindtree.runner.TestRunner - Successfully validated about us
